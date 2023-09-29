@@ -1,0 +1,5 @@
+---
+- name: ping module
+  hosts: 44.227.107.21
+  tasks:
+  - role: prasanthi.test_collection.prasanthi_role 
